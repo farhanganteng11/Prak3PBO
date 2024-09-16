@@ -27,7 +27,7 @@ public class MatematikaBeraksi {
         System.out.println("Perkalian : 10 * 3 = " + hasilPerkalian);
 
         int hasilPembagian = matematika.pembagian(21, 2);
-        System.out.println("Pembagian : 21 / 2 = " + hasilPembagian);
+        System.out.println("Pembagian : 20 / 2 = " + hasilPembagian);
     }
         
     }
